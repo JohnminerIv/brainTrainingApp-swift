@@ -1,4 +1,4 @@
-#Brain Training App
+# Brain Training App
 
 This application is written in swift using SwiftUi. It provides a simple user inerface and one of those fun "Brain Training" games. There is not a lot of research that shows that this actually inporves cognitive ability, but if you do practice this you will get better at it.
 
