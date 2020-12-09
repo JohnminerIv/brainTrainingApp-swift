@@ -11,6 +11,7 @@
 		F02C353B25757EB10051BE5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F02C353A25757EB10051BE5B /* ContentView.swift */; };
 		F02C353D25757EB30051BE5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F02C353C25757EB30051BE5B /* Assets.xcassets */; };
 		F02C354025757EB30051BE5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F02C353F25757EB30051BE5B /* Preview Assets.xcassets */; };
+		F02C354C2579EB150051BE5B /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F02C354B2579EB150051BE5B /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F02C353C25757EB30051BE5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F02C353F25757EB30051BE5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F02C354125757EB30051BE5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F02C354B2579EB150051BE5B /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				F02C353825757EB10051BE5B /* BrainTrainingAppApp.swift */,
 				F02C353A25757EB10051BE5B /* ContentView.swift */,
+				F02C354B2579EB150051BE5B /* HomeView.swift */,
 				F02C353C25757EB30051BE5B /* Assets.xcassets */,
 				F02C354125757EB30051BE5B /* Info.plist */,
 				F02C353E25757EB30051BE5B /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F02C354C2579EB150051BE5B /* HomeView.swift in Sources */,
 				F02C353B25757EB10051BE5B /* ContentView.swift in Sources */,
 				F02C353925757EB10051BE5B /* BrainTrainingAppApp.swift in Sources */,
 			);
